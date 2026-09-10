@@ -4,7 +4,7 @@
 ### 🔵 MCA Student   |   🟣 Full Stack Developer   |   🟠 Tech Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D26A&center=true&vCenter=true&width=750&lines=Welcome+to+Saroj+Kumar's+GitHub!;MCA+Student+%7C+Software+Developer;Building+%7C+Learning+%7C+Improving;Turning+Ideas+into+Code+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D26A&center=true&vCenter=true&width=750&lines=Welcome+to+Shivam+Kumar+Chaudhary's+GitHub!;MCA+Student+%7C+Full Stack+Developer;Building+%7C+Learning+%7C+Improving;Turning+Ideas+into+Code+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
   <i>“Code. Learn. Build. Improve.”</i>
 </p>
 
-I'm **Saroj Kumar**, an **MCA student** at **Graphic Era Deemed to be University, Dehradun**, with a strong interest in **software development, programming, web technologies, databases, and emerging technologies**.
+I'm **SHIVAM KUMAR CHAUDHARY**, an **MCA student** at **Graphic Era Deemed to be University, Dehradun**, with a strong interest in **Full Stack development, programming, web technologies, databases, and emerging technologies**.
 
 I enjoy transforming ideas into **practical applications**, solving problems through code, and exploring technologies that help me become a better developer.
 
@@ -108,7 +108,7 @@ LEARN  →  PRACTICE  →  BUILD  →  IMPROVE  →  REPEAT
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sarojkumar986465?tab=repositories">
+  <a href="https://github.com/Shivamkumarchaudhary?tab=repositories">
     <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-00D26A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
