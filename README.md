@@ -11,10 +11,10 @@
   <a href="https://github.com/Shivamkumarchaudhary">
     <img src="https://img.shields.io/badge/GitHub-Sarojkumar986465-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/saroj-kumar-66731a38a">
+  <a href="https://www.linkedin.com/in/shivamchaudhary27/">
     <img src="https://img.shields.io/badge/LinkedIn-Saroj%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:Sk9864652@gmail.com">
+  <a href="mailto:shivamkumarchaudhary321@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
